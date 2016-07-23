@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="io.vertx:vertx-web:3.3.2" type="repository">
+    <properties maven-id="io.vertx:vertx-web:3.3.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/vertx-web-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/vertx-auth-common-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/vertx-core-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-common-4.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-buffer-4.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-4.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-resolver-4.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-handler-4.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-4.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-handler-proxy-4.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-socks-4.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-http-4.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-http2-4.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-resolver-dns-4.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-dns-4.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/vertx-docgen-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/vertx-codetrans-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/vertx-codegen-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mvel2-2.2.8.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/vertx-web-3.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
